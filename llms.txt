@@ -1,0 +1,19 @@
+# PT Logs
+
+> A personal collection of published learnings, reference notes, and observations by Pankaj Tajane.
+
+PT Logs is a privacy-first, statically generated website. Only explicitly published content is included.
+
+## Core pages
+
+- [Home](https://ptlogs.com/): Introduction and top-level navigation.
+- [Uses](https://ptlogs.com/uses/): Hardware and software used for daily work.
+- [Colophon](https://ptlogs.com/colophon/): How the site is authored, built, and hosted.
+
+## Published logs
+
+- [Logs](https://ptlogs.com/logs/): Index of published logs.
+
+## Optional
+
+- [Sitemap](https://ptlogs.com/sitemap.xml): Machine-readable index of all published pages.
