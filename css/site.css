@@ -4,6 +4,10 @@
   line-height: 1.6;
 }
 
+html {
+  overflow-y: scroll;
+}
+
 body {
   margin: 0 auto;
   max-width: 48rem;
@@ -33,4 +37,3 @@ table {
   max-width: 100%;
   overflow-x: auto;
 }
-
