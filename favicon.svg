@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    .bg{fill:#111}.fg{fill:#fff}
+    @media(prefers-color-scheme:dark){.bg{fill:#fff}.fg{fill:#111}}
+  </style>
+  <path class="bg" d="M0 0h64v64H0z"/>
+  <path class="fg" d="M12 17h10c9 0 14 5 14 13S31 43 22 43h-4v8h-6V17zm6 6v14h4c5 0 8-2 8-7s-3-7-8-7h-4zm27-9h6v8h5v6h-5v9c0 3 1 4 4 4h1v6h-3c-6 0-8-3-8-10v-9h-5v-6h5v-8z"/>
+</svg>
