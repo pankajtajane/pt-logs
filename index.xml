@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on PT Logs</title><link>https://ptlogs.com/</link><description>Recent content in Home on PT Logs</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ptlogs.com/index.xml" rel="self" type="application/rss+xml"/><item><title>updates</title><link>https://ptlogs.com/updates/</link><pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate><guid>https://ptlogs.com/updates/</guid><description>&lt;p&gt;A lightweight record of visible changes to PT Logs. This page is intentionally small for now—and difficult to forget.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="next-update"&gt;Next update&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Release date:&lt;/strong&gt; To be decided&lt;/p&gt;
+&lt;p&gt;No release notes yet. The page shipped before the updates did.&lt;/p&gt;
+&lt;p&gt;Future entries will be short, dated, and listed newest first.&lt;/p&gt;</description></item><item><title>Markdown Check</title><link>https://ptlogs.com/md-check/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://ptlogs.com/md-check/</guid><description>&lt;p&gt;Format check&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="h1"&gt;h1&lt;/h1&gt;
+&lt;h2 id="h2"&gt;h2&lt;/h2&gt;
+&lt;h3 id="h3"&gt;h3&lt;/h3&gt;
+&lt;h4 id="h4"&gt;h4&lt;/h4&gt;
+&lt;h5 id="h5"&gt;h5&lt;/h5&gt;
+&lt;h6 id="h6"&gt;h6&lt;/h6&gt;
+&lt;p&gt;&lt;a href="https://www.google.com"&gt;Google&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note: Note&lt;/strong&gt;
+Note content&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;code block
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;$$
+math block
+$$&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;header1&lt;/th&gt;
+					&lt;th&gt;header2&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;row1.1&lt;/td&gt;
+					&lt;td&gt;row1.2&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;row2.1&lt;/td&gt;
+					&lt;td&gt;row2.2&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;bullet 1&lt;/li&gt;
+&lt;li&gt;bullet 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;list item 1&lt;/li&gt;
+&lt;li&gt;list item 2&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; task list 1&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; task list 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;bold text&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;italic text&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;code inline&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;highlight&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$inline math$&lt;/p&gt;
+&lt;p&gt;SVG&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://ptlogs.com/assets/profile.svg" alt="profile"&gt;&lt;/p&gt;
+&lt;p&gt;IMG - jpg
+&lt;img src="https://ptlogs.com/assets/profile.png" alt="profile"&gt;&lt;/p&gt;
+&lt;p&gt;Aug 13, 2026&lt;/p&gt;</description></item><item><title>Colophon</title><link>https://ptlogs.com/colophon/</link><pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate><guid>https://ptlogs.com/colophon/</guid><description>&lt;h2 id="tech-stack"&gt;Tech Stack&lt;/h2&gt;
+&lt;p&gt;Markdown to write
+|
+| sync, normalize, and validate
+v
+Normalize for pubish
+|
+| SSG - Hugo, Astro or Eleventy
+v
+Static page
+|
+| Git-backed deployment
+v
+Static hosting
+|&lt;/p&gt;</description></item><item><title>Uses</title><link>https://ptlogs.com/uses/</link><pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate><guid>https://ptlogs.com/uses/</guid><description>&lt;h2 id="tools-of-trade"&gt;Tools of trade&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Laptop model&lt;/li&gt;
+&lt;li&gt;Keyboard model&lt;/li&gt;
+&lt;li&gt;Mouse model&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Grief</title><link>https://ptlogs.com/notes/grief/</link><pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate><guid>https://ptlogs.com/notes/grief/</guid><description>&lt;h1 id="grief"&gt;&lt;strong&gt;Grief&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;ref: from reddit thread&lt;/p&gt;
+&lt;p&gt;tl;dr -&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Loosing a loved one, the pain and pieces are left for the ones left behind, the one who has left is in a happy place.&lt;/li&gt;
+&lt;li&gt;Time is panecea and best healer.&lt;/li&gt;
+&lt;li&gt;Life is fragile, give a hugs and kisses who are close to you when you can. Love them, fight with them as much as you can before you cannot.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Alright, here goes. I&amp;rsquo;m old. What that means is that I&amp;rsquo;ve survived (so far) and a lot of people I&amp;rsquo;ve known and loved did not. I&amp;rsquo;ve lost friends, best friends, acquaintances, co-workers, grandparents, mom, relatives, teachers, mentors, students, neighbors, and a host of other folks. I have no children, and I can&amp;rsquo;t imagine the pain it must be to lose a child. But here&amp;rsquo;s my two cents. &lt;/p&gt;</description></item></channel></rss>

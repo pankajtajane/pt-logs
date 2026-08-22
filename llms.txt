@@ -1,6 +1,6 @@
 # PT Logs
 
-> A personal collection of published learnings, reference notes, and observations by Pankaj Tajane.
+> A personal collection of published learnings, reference notes, and observations by pankaj tajane.
 
 PT Logs is a privacy-first, statically generated website. Only explicitly published content is included.
 
